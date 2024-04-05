@@ -14,12 +14,20 @@ The Abalone dataset has 8 features. Those appear as follows:
 I am analying each data point's proximity to other points in order to deduce classification for each. This is my output after running the applciation.
 
 **1st Output**
+
+
 <img width="755" alt="dm42" src="https://github.com/ianspetnagel/KNN-Algorithm-Nearest-Neighbors/assets/62821052/7099daeb-7950-4ae5-be3c-ade52943e4c9">
 
+
 **2nd Output**
+
+
 <img width="731" alt="dm43" src="https://github.com/ianspetnagel/KNN-Algorithm-Nearest-Neighbors/assets/62821052/9d26b6c4-272b-4690-8381-3760a338f575">
 
+
 **3rd Output**
+
+
 <img width="1038" alt="dm44" src="https://github.com/ianspetnagel/KNN-Algorithm-Nearest-Neighbors/assets/62821052/4f8b3fe7-9e3e-44f3-8663-539962bdbc76">
 
 
